@@ -1,0 +1,8 @@
+{
+  "degree" :  [
+    { "title" : "M.Tech", "branch" : "Thermal"},
+    { "title" : "M.Tech", "branch" : "Robotics" },
+    { "title" : "M.Tech", "branch" : "Computer Vision" },
+    { "title" : "M.Tech", "branch" : "Informatics" }
+  ]
+}

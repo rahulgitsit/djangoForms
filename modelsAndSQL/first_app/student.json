@@ -1,0 +1,11 @@
+{
+    "student" :  [
+      { "roll_number" : "AM.ENP2CSN21006", "name" : "Falcao", "year": "1", "dob":"2000-12-28", "degree" : [{ "title" : "M.Tech", "branch" : "CSN"}]},
+      { "roll_number" : "AM.ENP2CSN21007", "name" : "Giroud", "year": "1", "dob":"2000-12-28", "degree" : [{ "title" : "M.Tech", "branch" : "CSN"}]},
+      { "roll_number" : "AM.ENP2CSN21008", "name" : "Harry Maguire", "year": "1", "dob":"2000-12-28", "degree" : [{ "title" : "M.Tech", "branch" : "CSN"}]},
+      { "roll_number" : "AM.ENP2CSN21009", "name" : "Isco", "year": "1", "dob":"2000-12-28", "degree" : [{ "title" : "M.Tech", "branch" : "CSN"}]},
+      { "roll_number" : "AM.ENP2CSN210010", "name" : "Jamie Vardy", "year": "1", "dob":"2000-12-28", "degree" : [{ "title" : "M.Tech", "branch" : "CSN"}]}
+    
+    ]
+}
+  
