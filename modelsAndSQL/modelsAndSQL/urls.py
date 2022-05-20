@@ -23,5 +23,4 @@ urlpatterns = [
     path("index/", views.index, name="index"),
     path("forms/", views.get_degree, name="forms"),
     path("student/", views.get_student, name="student"),
-    path("search/", views.search, name="search"),
 ]
